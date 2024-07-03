@@ -1,0 +1,24 @@
+1) create a class called laptop declare private variables called ram,
+   battery, hd and try to access with getter and setter.
+
+2) create a class called animal create private variable in it and create 
+   child class called dog try to access this private members in it.( use
+   upcasting also).
+
+3) create a class called mobile create different constructors in it and
+   achieve constructor chaining by this().
+
+4) create one real time example for interface and use all oops concepts
+   in it(inheritance, abstraction, method overriding, encapsulation).
+
+5) Create a interface called ATM and create methods called withdrawal(),
+   mini statements(), change pin(), Deposit() and try to give proper
+   implimentation to every method.
+  
+6) Create class SolarSystem is the superclass of Earth class.
+   SolarSystem is the superclass of Mars class.
+   Earth and Mars are subclasses of SolarSystem class.
+   Moon is the subclass of both Earth and SolarSystem classes.
+   Create apporpriate methods in it and achieve inheritance. 
+   Create object for Mars and access methods of solarsystem
+   and earth with referance of mars.

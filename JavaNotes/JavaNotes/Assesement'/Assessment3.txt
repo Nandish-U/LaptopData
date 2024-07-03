@@ -1,0 +1,13 @@
+1) create generalised class called Menu card and create objects 
+   for it with parameterised constructor and try to take input 
+   from user and display the food.
+
+2) Create class company create vaariables like empId, name, and
+   salary make salary as private and create different objects 
+   for each employee and initialise all variable through constr
+   -uctor.
+
+3) Create class called Ola create variables like vehicle and 
+   ac/non ac create different object  for every vehicle and 
+   take dynamic input from usetr and display type vehicle on 
+   the basis of input taken.

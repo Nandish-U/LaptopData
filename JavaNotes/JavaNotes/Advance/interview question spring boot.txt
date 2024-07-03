@@ -1,0 +1,24 @@
+1. What is Spring Boot?
+2. What are the advantages of using Spring Boot?
+3. Why do we prefer Spring Boot over Spring?
+4. Explain the working of Spring Boot
+5. How does a spring application get started?:
+6. What are the Spring Boot Annotations?:
+7. What is Spring Boot dependency management?
+8. Can we create a non-web application in Spring Boot?
+9. Explain Spring MVC
+10. What Are Spring Boot DevTools Used For?
+11. Is it possible to change the port of the embedded Tomcat server in Spring Boot?
+12. What is the default port of Tomcat in spring boot?
+13.What is the difference between RequestMapping and GetMapping?
+14.What is dependency Injection?
+15.What are the types of Dependency Injections?
+16. What is an IOC container?
+17. What is the difference between Constructor and Setter Injection?
+18.What does the @SpringBootApplication annotation do internally?
+19.What is the purpose of using @ComponentScan in the class files?
+20.Mention the steps to connect the Spring Boot application to a database using JDBC.
+21.What are the @RequestMapping  and @RestController annotations in Spring Boot used for?
+22.What Do you understand about Spring Data Rest?
+24.What is Data JPA?
+25.How is Hibernate chosen as the default implementation for JPA without any configuration?

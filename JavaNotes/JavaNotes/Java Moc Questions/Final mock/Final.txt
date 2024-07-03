@@ -1,0 +1,12 @@
+1. Realtime example for Runtime polymorphism.
+2. Write a java program to override equals method to compare the name of two person
+3. Write a program to return object from called method to calling method.
+4. Achieve abstraction
+5. Customized exception ex: choose any class and make that class as runtime exception and handle it.
+6. Write a code to handle the exception by using interface.
+7. write a java program to add String objects into Hashset abd write a code to retrive the 4th index element (ex: input:- "java", "sql", "web", Mannual)
+8. write a code to explain multi threading.
+9. Create a bean class called Book 
+	a> create a datamembers like bookName, bookId, year, write a code to add book objects to TreeSet and retrieve the objects from TreeSet by using comparator.
+10. WAP to add <k , v> where k = Customer object and v = name, choose a class where i can get natural sorting.
+note: customer object consistes of name, if ,password and phoneNumber and sort it based on name.
